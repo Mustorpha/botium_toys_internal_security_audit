@@ -1,5 +1,5 @@
 # Security Audit Overview
-This scenario is based on a fictional company:
+<i>This scenario is based on a fictional company:</i>
 
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location. However, its online presence has grown, attracting customers in the U.S. and abroad. Their information technology (IT) department is under increasing pressure to support their online market worldwide. 
 
